@@ -1,0 +1,14 @@
+D:\кп и яп\9 ЛР\1 задание\1 задание\bin\Debug\net8.0\1 задание.exe
+D:\кп и яп\9 ЛР\1 задание\1 задание\bin\Debug\net8.0\1 задание.deps.json
+D:\кп и яп\9 ЛР\1 задание\1 задание\bin\Debug\net8.0\1 задание.runtimeconfig.json
+D:\кп и яп\9 ЛР\1 задание\1 задание\bin\Debug\net8.0\1 задание.dll
+D:\кп и яп\9 ЛР\1 задание\1 задание\bin\Debug\net8.0\1 задание.pdb
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.GeneratedMSBuildEditorConfig.editorconfig
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.AssemblyInfoInputs.cache
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.AssemblyInfo.cs
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.csproj.CoreCompileInputs.cache
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.dll
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\refint\1 задание.dll
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.pdb
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\1 задание.genruntimeconfig.cache
+D:\кп и яп\9 ЛР\1 задание\1 задание\obj\Debug\net8.0\ref\1 задание.dll

@@ -1,0 +1,4 @@
+Persona;Ivanov;Lenin St, 1;123-456
+Organization;Example Corp;Main St, 100;654-321;654-322;John Doe
+Friend;Sidorov;Spring St, 5;987-654;1990-01-01
+Persona;Petrov;Winter St, 10;321-654

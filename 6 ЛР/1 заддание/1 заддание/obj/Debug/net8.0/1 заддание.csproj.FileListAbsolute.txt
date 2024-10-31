@@ -1,0 +1,14 @@
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\bin\Debug\net8.0\1 заддание.exe
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\bin\Debug\net8.0\1 заддание.deps.json
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\bin\Debug\net8.0\1 заддание.runtimeconfig.json
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\bin\Debug\net8.0\1 заддание.dll
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\bin\Debug\net8.0\1 заддание.pdb
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.GeneratedMSBuildEditorConfig.editorconfig
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.AssemblyInfoInputs.cache
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.AssemblyInfo.cs
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.csproj.CoreCompileInputs.cache
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.dll
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\refint\1 заддание.dll
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.pdb
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\1 заддание.genruntimeconfig.cache
+D:\кп и яп\6 ЛР\1 заддание\1 заддание\obj\Debug\net8.0\ref\1 заддание.dll
